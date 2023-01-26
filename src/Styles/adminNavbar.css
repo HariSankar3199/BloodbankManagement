@@ -1,0 +1,29 @@
+/* .navmain{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px 10px;
+    background-color: rgb(177, 18, 18);
+}
+.navlists li{
+    display: inline;
+
+}
+.navlists a{
+    padding: 5px; 
+    margin: 2px;
+    text-decoration: none;
+    color: white;
+}
+.navlists a:hover{
+background-color: white;
+color: red;
+border-radius: 6px;
+}
+.navlogo img{
+    border-radius: 50%;
+} */
+
+.nN{
+    margin-left: 800px;
+}

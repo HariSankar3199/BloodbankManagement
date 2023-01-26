@@ -1,0 +1,26 @@
+.landingPage{
+background-color: white;
+margin-right: 0px;
+}
+
+.bg-red{
+    background-color: rgb(177, 18, 18);
+}
+.land{
+    width: 100%;
+}
+
+.land a{
+    color: white;
+}
+
+.match{
+    margin-left:8px;
+}
+.back{
+    background-image: url("../../public/images/bg4.webp");
+    background-size: contain;
+}
+.lnav{
+    margin-left: 900px;
+}
